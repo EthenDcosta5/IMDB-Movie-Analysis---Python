@@ -46,7 +46,16 @@ The dataset used in this analysis can be found in this repository files : imdb_m
 ## How to Run  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/imdb-movie-analysis.git  
+   git clone https://github.com/your-username/imdb-movie-analysis.git
+
+2. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+   
+3. Run the analysis notebook:
+   ```bash
+   jupyter notebook imdb_analysis.ipynb
+   
 ## Future Scope
 - Analyze audience demographics to gain deeper insights into movie preferences.
 - Explore streaming platform data to understand digital trends.
