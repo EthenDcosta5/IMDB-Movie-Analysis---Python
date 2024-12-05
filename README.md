@@ -4,7 +4,7 @@
 This project analyzes the IMDB Movies dataset to uncover trends, popular genres, and factors influencing movie success. Using Python and libraries like Pandas, NumPy, Matplotlib, and Seaborn, the analysis delivers actionable insights through comprehensive data exploration and visualization.  
 
 ## Dataset  
-The dataset used in this analysis can be found [here](https://drive.google.com/file/d/1lruT50ZWD4PtvDbIn4VnepZvSoeO9BrA/view?usp=sharing).  
+The dataset used in this analysis can be found [here](/imdb_movies.csv).  
 
 ## Tasks Covered  
 ### 1. **Project Setup and Data Loading**  
