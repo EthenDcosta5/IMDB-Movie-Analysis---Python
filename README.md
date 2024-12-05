@@ -64,5 +64,5 @@ The dataset used in this analysis can be found in this repository files : imdb_m
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any feature additions or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License.
